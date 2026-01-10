@@ -1,0 +1,6 @@
+[submodule "aptos-core"]
+	path = aptos-core
+	url = git@github.com:aptos-labs/aptos-core.git
+[submodule "dstest"]
+	path = dstest
+	url = git@github.com:egeberkaygulcan/dstest.git
