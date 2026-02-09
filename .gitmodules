@@ -3,4 +3,4 @@
 	url = git@github.com:aptos-labs/aptos-core.git
 [submodule "dstest"]
 	path = dstest
-	url = git@github.com:egeberkaygulcan/dstest.git
+	url = git@github.com:anabat8/dstest.git
